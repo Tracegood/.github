@@ -53,7 +53,7 @@ minisign -Vm addresses.json -P '<the key above>'
 ```
 
 If the signature does not verify, **do not send anything**, and tell us at
-hello@tracegood.org.
+support@tracegood.org.
 
 > Not yet generated. Until this block holds a real key, treat every address on the website as
 > unsigned and unverifiable — including by us.
@@ -64,4 +64,4 @@ This organisation page and **[tracegood.org](https://tracegood.org)** are the on
 TraceGood operates. We run no X, Mastodon, Reddit, Facebook or Telegram presence. **Treat any
 account claiming to be TraceGood as unverified.**
 
-Contact: **hello@tracegood.org**
+Contact: **support@tracegood.org**
